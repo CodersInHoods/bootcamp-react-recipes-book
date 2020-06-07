@@ -19,6 +19,7 @@ https://www.figma.com/file/VQz2NrvK8lPykD91kedoKJ/e-commerce_2?node-id=43%3A2
         - stay on the same url but change a component
 6. PDP
     - when I click on `Add to basket` it should add item to basket
+    - basket icon should be updated(quantity icon)
     - if I add the same product to basket it should increase quantity rather than render it as a separate.
 7. Basket
 
